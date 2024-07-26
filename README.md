@@ -1,10 +1,10 @@
 
 <h2 align="center">Hi, I'm Alfredo Bautista</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsrdelanoche&theme=tokyonight&hide_border=false" />
-  <img src="https://github.com/elsrdelanoche/elsrdelanoche/IMG/work-office.gif" />
+  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=elsrdelanoche&theme=tokyonight&hide_border=false" />
+  <img src="(https://github.com/elsrdelanoche/elsrdelanoche/blob/main/IMG/work-office.gif?raw=true)" />
   ![pingu](https://github.com/elsrdelanoche/elsrdelanoche/blob/main/IMG/work-office.gif?raw=true)
-  <img src="https://github-readme-stats.vercel.app/api?username=elsrdelanoche&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> 
+  <img width="425" src="https://github-readme-stats.vercel.app/api?username=elsrdelanoche&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsrdelanoche&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </div>
    
