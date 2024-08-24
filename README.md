@@ -4,7 +4,8 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsrdelanoche&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
   <img width="350" src="https://hostrider.com/images/tw.png" />
 </div>
-   
+
+<!---   
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -19,3 +20,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
+--->
